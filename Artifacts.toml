@@ -1,0 +1,115 @@
+[[cmocka]]
+arch = "aarch64"
+git-tree-sha1 = "2323f139eec39963f77a611cbc03b9aefa1db504"
+libc = "glibc"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "b50027bfc97b0fb9937ebae530bb697f31ee0f9a1a7006544e1c0add671d5a72"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.aarch64-linux-gnu.tar.gz"
+[[cmocka]]
+arch = "aarch64"
+git-tree-sha1 = "5540bd16baff58e9403afa06839c381d62e31e38"
+libc = "musl"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "a58699daaffb6fe73f809f97c2391e9d3e455dbf14c3bff80b954327e85d65e9"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.aarch64-linux-musl.tar.gz"
+[[cmocka]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7ce34ac2055659fb0fd8cb4dbd3316b406ddf925"
+libc = "glibc"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "0484f2cd3e5e860ec0f7461ebacd1437506c97afdc57a94e116403335cded208"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.armv7l-linux-gnueabihf.tar.gz"
+[[cmocka]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d3fdc6a1be55d8709c765c7a8ae8f6429aa637f2"
+libc = "musl"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "90c88d8a57f31c12600b1f18c28275a866f7f4321eac51446e61e4068fc6f54b"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.armv7l-linux-musleabihf.tar.gz"
+[[cmocka]]
+arch = "i686"
+git-tree-sha1 = "a17112c3b55c8e00ec7ec4ecfd45af8197f32884"
+libc = "glibc"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "21de9330b9828bba20839fc1bce73a383704b18b0ee3c7084004171fa5e0682e"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.i686-linux-gnu.tar.gz"
+[[cmocka]]
+arch = "i686"
+git-tree-sha1 = "88d7d5222b6e47b1a09ae1010e43e6d99c630f9c"
+libc = "musl"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "7ea36dbaad0d6b1086da10e42c847c837495c093122eec5ae4053eab3d0a92b1"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.i686-linux-musl.tar.gz"
+[[cmocka]]
+arch = "i686"
+git-tree-sha1 = "0388660f0c11b7e27f79cb02cc98edc98b51ff0b"
+os = "windows"
+
+    [[cmocka.download]]
+    sha256 = "dc43874c1dea58d45d6f4770b458c44c9f811a7df52807fcdf8154824f1ddfe5"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.i686-w64-mingw32.tar.gz"
+[[cmocka]]
+arch = "powerpc64le"
+git-tree-sha1 = "3e968854ef4623e8b3813b288525bfc226904077"
+libc = "glibc"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "a7c53606f04875eaccca31db3803e1d970321d99094286326416440c9cded00d"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.powerpc64le-linux-gnu.tar.gz"
+[[cmocka]]
+arch = "x86_64"
+git-tree-sha1 = "3c5ee76aef5bfc644d9ff21af72e293a0f55ee9a"
+os = "macos"
+
+    [[cmocka.download]]
+    sha256 = "f88d736adf4b7644bda83633528ae43bd5ba641bd2433e5d36716951eb0e36bb"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.x86_64-apple-darwin.tar.gz"
+[[cmocka]]
+arch = "x86_64"
+git-tree-sha1 = "e3cf953e5bd07dd5276df7d730ee0b472b5177da"
+libc = "glibc"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "0e73e3fde8e3e02be06264c5ea1e84e93e4e69ef82df86c2260a1e3babcba9b4"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.x86_64-linux-gnu.tar.gz"
+[[cmocka]]
+arch = "x86_64"
+git-tree-sha1 = "5dcb31c2ef6c954e82481cd40106eea5d288ac08"
+libc = "musl"
+os = "linux"
+
+    [[cmocka.download]]
+    sha256 = "9f0c025c2605d10bf0f76f12df5dad0e9788a293c3cdb3cb4e0065cbf7f252fa"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.x86_64-linux-musl.tar.gz"
+[[cmocka]]
+arch = "x86_64"
+git-tree-sha1 = "bacab7d7a31baafb5fef4f6673f0a79fbe588d53"
+os = "freebsd"
+
+    [[cmocka.download]]
+    sha256 = "4bd8903ee15d2f36e2da6bfe16abb68e801e234af885b0266d45bf50742f536d"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.x86_64-unknown-freebsd.tar.gz"
+[[cmocka]]
+arch = "x86_64"
+git-tree-sha1 = "eed8a8e4c2b55ae7980bf31cc1c176a8e20f22a4"
+os = "windows"
+
+    [[cmocka.download]]
+    sha256 = "007bcbf4331de871390c42c445df88c5b79060c521bc6678a3e8d55aa91f965b"
+    url = "https://github.com/JuliaBinaryWrappers/cmocka_jll.jl/releases/download/cmocka-v1.1.5+0/cmocka.v1.1.5.x86_64-w64-mingw32.tar.gz"
